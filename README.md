@@ -6,7 +6,7 @@ Programming Language: Python
 
 [XX] Day 1
 
-[ ] Day 2
+[XX] Day 2
 
 [ ] Day 3
 
