@@ -4,11 +4,13 @@ Code for Advent of Code 2021
 
 Programming Language: Python
 
+Private Leaderboard: 1690467-c4c56134
+
 [XX] Day 1
 
 [XX] Day 2
 
-[ ] Day 3
+[XX] Day 3
 
 [ ] Day 4
 
