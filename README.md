@@ -18,7 +18,7 @@ Private Leaderboard: 1690467-c4c56134
 
 [XX] Day 6
 
-[ ] Day 7
+[XX] Day 7
 
 [ ] Day 8
 
