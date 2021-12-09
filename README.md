@@ -6,23 +6,25 @@ Programming Language: Python
 
 Private Leaderboard: 1690467-c4c56134
 
-[XX] Day 1
+### [X*number of problems solved] Day# - GlobalRank
 
-[XX] Day 2
+[XX] Day 1 - 88514
 
-[XX] Day 3
+[XX] Day 2 - 12668
 
-[XX] Day 4
+[XX] Day 3 - 5489
 
-[XX] Day 5
+[XX] Day 4 - 5140
 
-[XX] Day 6
+[XX] Day 5 - 3161
 
-[XX] Day 7
+[XX] Day 6 - 1492
 
-[XX] Day 8
+[XX] Day 7 - 901
 
-[XX] Day 9
+[XX] Day 8 - 241
+
+[XX] Day 9 - 494
 
 [ ] Day 10
 
