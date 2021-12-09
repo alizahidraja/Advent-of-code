@@ -22,7 +22,7 @@ Private Leaderboard: 1690467-c4c56134
 
 [XX] Day 8
 
-[ ] Day 9
+[XX] Day 9
 
 [ ] Day 10
 
