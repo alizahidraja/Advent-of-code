@@ -4,7 +4,7 @@ Code for Advent of Code 2021
 
 Programming Language: Python
 
-Private Leaderboard: 1690467-c4c56134
+Private Leaderboard: `1690467-c4c56134`
 
 ### [X*number of problems solved] Day# - Time - GlobalRank
 
