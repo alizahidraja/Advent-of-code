@@ -32,7 +32,7 @@ Private Leaderboard: `1690467-c4c56134`
 
 [XX] Day 12 - 00:16:22 - 244
 
-[ ] Day 13
+[XX] Day 13 - 00:18:24 - 713
 
 [ ] Day 14
 
